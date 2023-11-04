@@ -1,6 +1,6 @@
-# computer_system
+# computer_service_system
 
-A new Flutter project.
+CSS Mobile Application v1_0606
 
 ## Getting Started
 
